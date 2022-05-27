@@ -1,0 +1,103 @@
+
+body {
+	font-family: 'Assistant', sans-serif;
+	font-size: 15px;
+	height: 100%;
+}
+
+/* Custom CSS */
+.form-wrapper {
+  width: 200px;
+  margin: 100px auto;
+  padding: 10px;
+  background: #E7E8E8;
+  border-radius: 5px;
+}
+
+.add-header-font {
+	font-family: 'Paytone One', sans-serif;
+}
+
+.alert {
+  border-radius: 0 !important;
+}
+
+.container-minimized {
+	max-width: 800px;
+	margin:  10px auto;
+}
+
+.site-logs {
+	border-bottom: 1px solid #ccc;
+}
+
+.center {text-align: center;}
+
+/* Headings */
+h1, h2, h3, h4 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.heading {
+	border-bottom: 1px solid #ccc;
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+/* Misc */
+.capitalize {
+	text-transform: uppercase;
+}
+
+.fontier {
+	font-family: 'Raleway', sans-serif;
+	background-color: #f00;
+}
+
+/* Customizing Bootstrap */
+.navbar {
+	background-color: #205081;
+	border-radius: 0;
+}
+
+.navbar a {
+	color: #fff !important;
+}
+
+.list-group-panel {
+	max-width: 200px;
+	margin: 0 auto;
+}
+
+/* Footer */
+footer {
+	padding: 70px;
+	margin-top: 60px;
+	text-align: center;
+}
+
+.one-edge-shadow {
+	-webkit-box-shadow: inset 0px 5px 17px -2px rgba(32,80,129,1);
+-moz-box-shadow: inset 0px 5px 17px -2px rgba(32,80,129,1);
+box-shadow: inset 0px 5px 17px -2px rgba(32,80,129,1);
+}
+
+
+/* Error messages */
+.error {
+	color: #F00 !important;
+}
+
+.full-height {
+	height: 100% !important;
+}
+
+/* Modal */
+.modal {
+	/*max-width: 300px !important;*/
+	transition: opacity 0.25s ease;
+}
+body.modal-active {
+	overflow-x: hidden;
+	overflow-y: visible !important;
+}

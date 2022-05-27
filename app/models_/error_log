@@ -1,0 +1,2 @@
+[01-Nov-2018 02:29:56 America/New_York] PHP Fatal error:  Class 'ActiveRecord\Model' not found in /home/secukzxl/public_html/authorize/fcbintl/app/models/Account.php on line 3
+[01-Nov-2018 02:30:02 America/New_York] PHP Fatal error:  Class 'ActiveRecord\Model' not found in /home/secukzxl/public_html/authorize/fcbintl/app/models/Account.php on line 3

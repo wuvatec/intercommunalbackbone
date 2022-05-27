@@ -1,0 +1,750 @@
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[10-Aug-2018 07:49:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[14-Aug-2018 15:40:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[18-Aug-2018 11:13:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[18-Aug-2018 11:13:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[20-Aug-2018 11:15:32 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[20-Aug-2018 11:15:32 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[20-Aug-2018 11:15:32 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[20-Aug-2018 11:16:01 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[20-Aug-2018 11:16:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[20-Aug-2018 11:16:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[22-Aug-2018 16:45:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[01-Sep-2018 14:13:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[08-Sep-2018 08:27:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[08-Sep-2018 21:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[08-Sep-2018 21:14:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[08-Sep-2018 21:14:00 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[21-Sep-2018 06:53:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[21-Sep-2018 06:53:20 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[21-Sep-2018 06:53:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[21-Sep-2018 06:53:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[21-Sep-2018 06:53:31 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[24-Sep-2018 06:18:49 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[24-Sep-2018 06:18:49 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[24-Sep-2018 06:50:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[24-Sep-2018 06:50:36 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[05-Oct-2018 14:14:34 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\RecordNotFound' with message 'Couldn't find User with ID=44' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php:1596
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1564): ActiveRecord\Model::find_by_pk(44, Array)
+#1 /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc(13): ActiveRecord\Model::find(44)
+#2 /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php(28): require_once('/home/secukzxl/...')
+#3 {main}
+  thrown in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php on line 1596
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[07-Oct-2018 19:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[11-Oct-2018 05:20:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[11-Oct-2018 05:20:58 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[11-Oct-2018 06:15:19 America/New_York] PHP Notice:  Undefined variable: transaction in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 56
+[11-Oct-2018 06:15:19 America/New_York] PHP Warning:  Creating default object from empty value in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 57
+[11-Oct-2018 06:15:19 America/New_York] PHP Fatal error:  Call to undefined method stdClass::save() in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 58
+[11-Oct-2018 06:20:41 America/New_York] PHP Notice:  Undefined variable: transaction in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 56
+[11-Oct-2018 06:20:41 America/New_York] PHP Warning:  Creating default object from empty value in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 57
+[11-Oct-2018 06:20:41 America/New_York] PHP Fatal error:  Call to undefined method stdClass::save() in /home/secukzxl/public_html/authorize/fcbintl/app/account/thank_you.php on line 58
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[31-Oct-2018 21:36:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[09-Nov-2018 19:32:08 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[09-Nov-2018 19:32:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[09-Nov-2018 19:32:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[13-Nov-2018 02:36:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[15-Nov-2018 05:08:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[16-Nov-2018 02:51:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[16-Nov-2018 10:48:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[17-Nov-2018 07:39:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[18-Nov-2018 09:55:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[18-Nov-2018 13:54:59 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[18-Nov-2018 13:55:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[18-Nov-2018 13:55:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[28-Nov-2018 08:59:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[11-Dec-2018 09:51:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:32:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:33:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:33:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:34:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:42:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:42:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[11-Dec-2018 11:43:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[12-Dec-2018 04:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[13-Dec-2018 15:49:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[13-Dec-2018 15:49:05 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[13-Dec-2018 15:50:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[14-Dec-2018 01:29:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[14-Dec-2018 01:29:25 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[19-Dec-2018 22:03:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[21-Dec-2018 03:06:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[21-Dec-2018 15:51:27 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[21-Dec-2018 15:51:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[21-Dec-2018 15:51:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[25-Dec-2018 19:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[03-Jan-2019 17:16:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[15-Jan-2019 07:42:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[15-Jan-2019 12:35:52 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[15-Jan-2019 12:35:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[15-Jan-2019 12:35:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[15-Jan-2019 12:35:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/deposit.php on line 49
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[16-Jan-2019 23:33:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[27-Jan-2019 12:19:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[06-Feb-2019 17:40:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[07-Feb-2019 08:51:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[17-Feb-2019 05:56:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[19-Feb-2019 14:36:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[19-Feb-2019 14:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[19-Feb-2019 14:37:18 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[19-Feb-2019 14:37:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 14:37:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 14:37:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 14:37:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transaction_history.php on line 39
+[19-Feb-2019 14:37:20 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM t...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM t...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transaction_history.php(39): ActiveRecord\ in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325
+[19-Feb-2019 14:37:22 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 14:37:22 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 14:37:22 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 14:37:22 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/settings.php on line 78
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Undefined variable: active in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 16
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 40
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 42
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 43
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 44
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 51
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 52
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 53
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 54
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 55
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 56
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 59
+[19-Feb-2019 20:22:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/account_summary.php on line 72
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 13
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Undefined index: user_id in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 13
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 14
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/render/_header.inc on line 19
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 113
+[19-Feb-2019 20:37:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php on line 118
+[19-Feb-2019 20:37:16 America/New_York] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php:322
+Stack trace:
+#0 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php(322): PDOStatement->execute(NULL)
+#1 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Table.php(218): ActiveRecord\Connection->query('SELECT * FROM a...', NULL)
+#2 /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Model.php(1619): ActiveRecord\Table->find_by_sql('SELECT * FROM a...', NULL, true)
+#3 /home/secukzxl/public_html/authorize/fcbintl/app/account/transfer.php(118): ActiveRecord\Model::fin in /home/secukzxl/public_html/authorize/fcbintl/vendor/php-activerecord/php-activerecord/lib/Connection.php on line 325

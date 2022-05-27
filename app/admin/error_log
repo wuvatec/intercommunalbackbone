@@ -1,0 +1,210 @@
+[14-Jan-2021 22:23:10 UTC] PHP Notice:  Array to string conversion in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 80
+[14-Jan-2021 22:23:10 UTC] PHP Notice:  Trying to get property 'name' of non-object in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 82
+[14-Jan-2021 22:23:10 UTC] PHP Notice:  Undefined variable: act in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 85
+[14-Jan-2021 22:23:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 85
+[14-Jan-2021 22:26:04 UTC] PHP Notice:  Array to string conversion in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 80
+[14-Jan-2021 22:26:04 UTC] PHP Notice:  Trying to get property 'name' of non-object in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 82
+[14-Jan-2021 23:09:15 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[14-Jan-2021 23:09:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[15-Jan-2021 14:44:00 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[15-Jan-2021 14:44:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[15-Jan-2021 22:08:25 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[15-Jan-2021 22:08:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[19-Jan-2021 13:39:11 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[19-Jan-2021 13:39:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[19-Jan-2021 16:08:48 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[19-Jan-2021 16:08:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[26-Jan-2021 01:53:07 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[26-Jan-2021 01:53:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/wtbintl.qikconnect.net/app/admin/activities.php on line 64
+[01-Apr-2021 20:00:35 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/nordprivat.qikconnect.net/app/admin/activities.php on line 64
+[01-Apr-2021 20:00:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/nordprivat.qikconnect.net/app/admin/activities.php on line 64
+[27-Apr-2021 14:51:23 UTC] PHP Notice:  Undefined variable: activities in /home/qikconne/nordprivat.qikconnect.net/app/admin/activities.php on line 64
+[27-Apr-2021 14:51:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikconne/nordprivat.qikconnect.net/app/admin/activities.php on line 64
+[17-Sep-2021 05:59:04 America/New_York] PHP Fatal error:  Uncaught PDOException: Could not connect to database (qikconne_nordprivat). in /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php:1056
+Stack trace:
+#0 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(1080): RedBeanPHP\Driver\RPDO->runQuery('SELECT `admins`...', Array)
+#2 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(4174): RedBeanPHP\Driver\RPDO->GetAll('SELECT `admins`...', Array)
+#3 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(6305): RedBeanPHP\Adapter\DBAdapter->get('SELECT `admins`...', Array)
+#4 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(8092): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('admins', Array, ' username = ? L...', Array)
+#5 /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php(9217): RedBeanPHP\Repository->find('admins', Array, ' username = in /home/qikcbvaf/alister-investment.qikconnect.net/database/rb-mysql.php on line 1056
+[17-Sep-2021 06:09:20 America/New_York] PHP Notice:  Undefined variable: account_id in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/new_transaction.php on line 141
+[17-Sep-2021 06:09:55 America/New_York] PHP Notice:  Undefined variable: messages in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/messages.php on line 63
+[17-Sep-2021 06:09:55 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/messages.php on line 63
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Trying to get property 'username' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Trying to get property 'domain' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Trying to get property 'website_name' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[17-Sep-2021 16:08:16 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[17-Sep-2021 16:08:16 America/New_York] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[19-Sep-2021 02:35:02 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[19-Sep-2021 02:35:02 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Trying to get property 'username' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Trying to get property 'domain' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Trying to get property 'website_name' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[20-Sep-2021 09:00:52 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[20-Sep-2021 09:00:52 America/New_York] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[20-Sep-2021 09:05:14 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[20-Sep-2021 09:05:14 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[22-Sep-2021 10:58:32 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/accounts.php on line 47
+[22-Sep-2021 10:58:32 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/accounts.php on line 47
+[22-Sep-2021 10:58:32 America/New_York] PHP Notice:  Undefined variable: accounts in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/accounts.php on line 76
+[22-Sep-2021 10:58:32 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/accounts.php on line 76
+[22-Sep-2021 12:27:47 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[22-Sep-2021 12:27:47 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Trying to get property 'username' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Trying to get property 'domain' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Trying to get property 'website_name' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 03:05:03 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[23-Sep-2021 03:05:03 America/New_York] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[23-Sep-2021 06:31:52 America/New_York] PHP Notice:  Undefined variable: broadcasts in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/broadcast.php on line 165
+[23-Sep-2021 06:31:52 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/broadcast.php on line 165
+[23-Sep-2021 07:32:30 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[23-Sep-2021 07:32:30 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[23-Sep-2021 10:24:20 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[23-Sep-2021 10:24:20 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Trying to get property 'username' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 25
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Trying to get property 'domain' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Trying to get property 'website_name' of non-object in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 29
+[23-Sep-2021 11:57:18 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[23-Sep-2021 11:57:18 America/New_York] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/dashboard.php on line 89
+[01-Oct-2021 17:22:06 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[01-Oct-2021 17:22:06 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/alister-investment.qikconnect.net/app/admin/users.php on line 63
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 105
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 105
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 113
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 113
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 114
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 114
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 115
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 115
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 116
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 116
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 117
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 117
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 118
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 118
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 119
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 119
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 120
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 120
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 121
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 121
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 134
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 134
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 143
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 143
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 144
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 144
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 145
+[15-Nov-2021 15:01:55 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 145
+[07-Apr-2022 10:47:32 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 47
+[07-Apr-2022 10:47:32 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 47
+[07-Apr-2022 10:47:32 America/New_York] PHP Notice:  Undefined variable: accounts in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 76
+[07-Apr-2022 10:47:32 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 76
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 105
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 105
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 113
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 113
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 114
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 114
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 115
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 115
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 116
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 116
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 117
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 117
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 118
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 118
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 119
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 119
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 120
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 120
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 121
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'currency' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 121
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 134
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 134
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 143
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 143
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 144
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 144
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Undefined variable: admin in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 145
+[07-Apr-2022 10:52:22 America/New_York] PHP Notice:  Trying to get property 'region' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/settings.php on line 145
+[07-Apr-2022 10:52:56 America/New_York] PHP Notice:  Undefined variable: account_id in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 141
+[07-Apr-2022 10:54:01 America/New_York] PHP Notice:  Undefined index: transfer_status in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 29
+[07-Apr-2022 10:54:01 America/New_York] PHP Notice:  Trying to get property 'balance' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:01 America/New_York] PHP Warning:  Creating default object from empty value in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:01 America/New_York] PHP Fatal error:  Uncaught RedBeanPHP\RedException: OODB Store requires a bean, got: object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php:9003
+Stack trace:
+#0 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(9271): RedBeanPHP\OODB->unboxIfNeeded(Object(stdClass))
+#1 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(12144): RedBeanPHP\OODB->store(Object(stdClass))
+#2 /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php(60): RedBeanPHP\Facade::store(Object(stdClass))
+#3 {main}
+  thrown in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php on line 9003
+[07-Apr-2022 10:54:11 America/New_York] PHP Notice:  Undefined index: transfer_status in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 29
+[07-Apr-2022 10:54:11 America/New_York] PHP Notice:  Trying to get property 'balance' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:11 America/New_York] PHP Warning:  Creating default object from empty value in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:11 America/New_York] PHP Fatal error:  Uncaught RedBeanPHP\RedException: OODB Store requires a bean, got: object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php:9003
+Stack trace:
+#0 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(9271): RedBeanPHP\OODB->unboxIfNeeded(Object(stdClass))
+#1 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(12144): RedBeanPHP\OODB->store(Object(stdClass))
+#2 /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php(60): RedBeanPHP\Facade::store(Object(stdClass))
+#3 {main}
+  thrown in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php on line 9003
+[07-Apr-2022 10:54:16 America/New_York] PHP Notice:  Undefined variable: account_id in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 141
+[07-Apr-2022 10:54:19 America/New_York] PHP Notice:  Undefined index: transfer_status in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 29
+[07-Apr-2022 10:54:19 America/New_York] PHP Notice:  Undefined variable: account_id in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 141
+[07-Apr-2022 10:54:56 America/New_York] PHP Notice:  Undefined index: transfer_status in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 29
+[07-Apr-2022 10:54:56 America/New_York] PHP Notice:  Trying to get property 'balance' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:56 America/New_York] PHP Warning:  Creating default object from empty value in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 59
+[07-Apr-2022 10:54:56 America/New_York] PHP Fatal error:  Uncaught RedBeanPHP\RedException: OODB Store requires a bean, got: object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php:9003
+Stack trace:
+#0 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(9271): RedBeanPHP\OODB->unboxIfNeeded(Object(stdClass))
+#1 /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php(12144): RedBeanPHP\OODB->store(Object(stdClass))
+#2 /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php(60): RedBeanPHP\Facade::store(Object(stdClass))
+#3 {main}
+  thrown in /home/qikcbvaf/intercommunalkredit.qikconnect.net/database/rb-mysql.php on line 9003
+[07-Apr-2022 12:25:12 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/users.php on line 63
+[07-Apr-2022 12:25:12 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/users.php on line 63
+[07-Apr-2022 13:59:53 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/users.php on line 63
+[07-Apr-2022 13:59:53 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/users.php on line 63
+[08-May-2022 13:43:48 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 47
+[08-May-2022 13:43:48 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 47
+[08-May-2022 13:43:48 America/New_York] PHP Notice:  Undefined variable: accounts in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 76
+[08-May-2022 13:43:48 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/accounts.php on line 76
+[08-May-2022 13:45:08 America/New_York] PHP Notice:  Undefined variable: messages in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/messages.php on line 63
+[08-May-2022 13:45:08 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/messages.php on line 63
+[09-May-2022 05:52:58 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 05:52:58 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 09:00:55 America/New_York] PHP Notice:  Undefined variable: messages in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/messages.php on line 63
+[09-May-2022 09:00:55 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/messages.php on line 63
+[09-May-2022 16:01:41 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:01:41 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:05:31 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:05:31 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:09:16 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:09:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:23:17 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:23:17 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:25:02 America/New_York] PHP Notice:  Undefined variable: activities in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[09-May-2022 16:25:02 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/activities.php on line 64
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 25
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Trying to get property 'username' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 25
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 29
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Trying to get property 'domain' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 29
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Undefined variable: user in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 29
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Trying to get property 'website_name' of non-object in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 29
+[10-May-2022 14:43:26 America/New_York] PHP Notice:  Undefined variable: users in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 89
+[10-May-2022 14:43:26 America/New_York] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/dashboard.php on line 89
+[10-May-2022 14:45:07 America/New_York] PHP Notice:  Undefined variable: account_id in /home/qikcbvaf/intercommunalkredit.qikconnect.net/app/admin/new_transaction.php on line 141
